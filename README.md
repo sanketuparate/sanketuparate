@@ -3,7 +3,7 @@
 
 ### 👨‍💻: About Me 
 - 🧑🏻‍💻 Pronouns: He/him/his
-- 💼 I’m currently I looking for a job.
+- 💼 I’m currently looking for a job.
 - 📋 I have just completed my graduation.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
