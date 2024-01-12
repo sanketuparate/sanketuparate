@@ -26,6 +26,7 @@
 
 ### :fire: Streaks 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketuparate&" alt="sanketuparate" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
